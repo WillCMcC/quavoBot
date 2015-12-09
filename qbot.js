@@ -1,10 +1,10 @@
 var Twitter = require('twitter');
 
 var client = new Twitter({
-  consumer_key: 'QQvyZA7EI5LjsI1x4SV7GS4Lp',
-  consumer_secret: 'a6Kx7OQOlItBgtnSSCblt2iceEv0elTIdrLfQSQLnRMUS8CyDD',
-  access_token_key: '4196569752-tN7gkOgafwJSMykiIVQ6z5FYWiyQDw79XWyFGFG',
-  access_token_secret: 'Y5gTvimZPP9pCLLh0WlYfXe9g7IyB7xJEVsCePKrErV7P'
+  consumer_key: 'KjfaQXzpbsjnVkCadwbyBAH3A',
+  consumer_secret: 'ooD0Knjz0YVRzmBgY08uWq7hcDaJVdoHBA8j7CMtQPa0toBxhW',
+  access_token_key: '4196569752-S2GVkZMpyjstXd6uzSipvoDKuSId618zz6FfcE9',
+  access_token_secret: 'MgxFnN9CmvexdzbGICW93O4T9lPDHR2Lxgb4r87JCE3eU'
 });
 var words = ['bando', 'migos', 'migo', 'quavo', 'migos adlibs', 'migos ad libs']
 var shouts = ['momma', 'woah', 'cash', 'bando','migo' ]
